@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoAnnotation</string>
+    <string name="takepic">takePic</string>
+    <string name="image">image</string>
+    <string name="takepic1">TakePic</string>
+    <string name="clear">Clear</string>
+    <string name="draw">Draw</string>
+    <string name="color">Color</string>
+</resources>
